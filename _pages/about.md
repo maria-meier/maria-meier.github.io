@@ -8,22 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the [Data-driven Analysis of Peacekeeping Project](https://dapp-lab.org)
-lab. I specialize in International Relations and Political Methodology. I earned
-my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Hello.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Political Science Research and Methods*,
-and *The Journal of Open Source Software*. My [research](research) explores the
-causes and consequences of political violence using a broad variety of methods
-such as latent variable models, geospatial analysis, and big data. While I
-primarily focus on civil conflict, I also examine contentious political
-phenomena including terrorism and economic statecraft. I have
-[teaching](teaching) experience in both international relations and quantitative
-methodology.
+I am a PhD student in the [Department of Clinical Neuropsychology](https://www.psychologie.uni-konstanz.de/pruessner/) at the [University of Constance](https://www.uni-konstanz.de), Germany, supervised by Prof. Dr. Jens Pruessner. 
+
+My research interest covers _stress_ and its relation to _metabolic health_, the interaction of physiological stress systems, and longitudinal data analysis using multilevel mixed models.
