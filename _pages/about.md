@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![image]({{ / }}/files/panorama_verwall.jpeg)
+
 I am a PhD student at the [Department of Clinical Neuropsychology](https://www.psychologie.uni-konstanz.de/pruessner/) of the [University of Constance](https://www.uni-konstanz.de), Germany, where I currently work in the group of Prof. Dr. Jens Pruessner. 
 
 I am interested in why stress-related diseases like depression, and metabolic diseases like obesity often go hand in hand. On this endeavour, I study the impact of sweeteners on  psychophysiological stress and relaxation responses. On the long run, I would like to investigate the role of reward, motivation and pleasure in the emergence of symptoms like anhedonia and obesity.
