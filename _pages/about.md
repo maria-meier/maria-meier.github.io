@@ -18,4 +18,4 @@ I like longitudinal data analysis using multilevel mixed models and making graph
 
 I try to make research accessible and transparent both for scientists and the public. This is why I follow open science principles, and engage in science communication whenever possible.
 
-In case of any questions, don't hesitate to drop me a mail at maria.meier@uni.kn
+In case of any questions, don't hesitate to drop me a mail at maria [dot] meier [at] uni [dot] kn
