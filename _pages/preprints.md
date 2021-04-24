@@ -5,7 +5,7 @@ permalink: /preprints/
 author_profile: true
 ---
 
-Here, you find a list of my current preprints:
+This is a list of my current preprints:
 
 Bentele, U. U.\*, <b>Meier, M.</b>\*, Benz, A., Denk, B., Dimitroff, S. J., Pruessner, J., & Unternaehrer, E. The impact of maternal care and blood glucose availability on the cortisol stress response in fasted women. <https://doi.org/10.31234/osf.io/axkde> (under review)
 
