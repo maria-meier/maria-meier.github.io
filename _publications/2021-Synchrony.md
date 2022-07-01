@@ -1,5 +1,4 @@
 ---
-title: "Influence of stress on physiological synchrony in a stressful versus non‐stressful group setting."
 collection: publications
 permalink: /publication/2021-Synchrony
 date: 2021-08-03

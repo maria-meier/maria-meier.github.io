@@ -1,5 +1,4 @@
 ---
-title: "Acute psychosocial stress and working memory performance: the potential of physical activity to modulate cognitive functions in children."
 collection: publications
 permalink: /publication/2019-Wunsch
 date: 2019-10-01

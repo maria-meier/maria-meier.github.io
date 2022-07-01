@@ -1,6 +1,4 @@
 ---
-title: "Nature-Based Relaxation Videos and Their Effect on Heart Rate Variability."
-collection: publications
 permalink: /publication/2021-Synchrony
 date: 2022-06-10
 venue: 'Frontiers in Psychology'

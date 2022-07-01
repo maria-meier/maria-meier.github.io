@@ -1,5 +1,4 @@
 ---
-title: "The Opposite of Stress - The Relationship Between Vagal Tone, Creativity, and Divergent Thinking"
 collection: publications
 permalink: /publication/2020-Creativity
 date: 2020-07-30

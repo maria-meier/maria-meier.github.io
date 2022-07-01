@@ -1,5 +1,4 @@
 ---
-title: "Standardized massage interventions as protocols for the induction of psychophysiological relaxation in the laboratory: a block randomized, controlled trial. "
 collection: publications
 permalink: /publication/2020-Touch
 date: 2019-10-01

@@ -1,5 +1,4 @@
 ---
-title: "Effects of psychological, sensory, and metabolic energy prime manipulation on the acute endocrine stress response in fasted women."
 collection: publications
 permalink: /publication/2021-Sugar
 date: 2021-10-27

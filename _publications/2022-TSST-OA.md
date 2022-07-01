@@ -1,5 +1,4 @@
 ---
-title: "Validation of an online version of the Trier Social Stress Test in adult men and women."
 collection: publications
 permalink: /publication/2022-TSST-OA.md
 date: 2022-08-01

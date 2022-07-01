@@ -1,5 +1,4 @@
 ---
-title: "Laughter Yoga reduces the cortisol response to acute stress in healthy individuals"
 collection: publications
 permalink: /publication/2020-Laughter
 date: 2020-05-26
