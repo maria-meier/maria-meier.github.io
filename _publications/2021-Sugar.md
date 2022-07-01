@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: publications
 permalink: /publication/2021-Sugar
 date: 2021-10-27

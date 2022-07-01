@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: publications
 permalink: /publication/2019-Wunsch
 date: 2019-10-01

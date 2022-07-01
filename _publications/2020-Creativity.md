@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: publications
 permalink: /publication/2020-Creativity
 date: 2020-07-30

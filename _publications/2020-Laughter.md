@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: publications
 permalink: /publication/2020-Laughter
 date: 2020-05-26
