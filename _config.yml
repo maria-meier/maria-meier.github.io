@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maria Meier"
+title                    : "Dr. Maria Meier"
 title_separator          : "-"
-name                     : &name "Maria Meier"
-description              : &description "PhD student in Clinical Neuopsychology"
+name                     : &name "Dr. Maria Meier"
+description              : &description ""
 url                      : "https://maria-meier.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maria-meier/maria-meier.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maria Meier"
+  name             : "Dr. Maria Meier"
   avatar           : "profile.png"
-  bio              : "PhD student"
+  bio              : "Postdoc"
   location         : 
-  employer         : "University of Constance, Germany"
+  employer         : "University of Konstanz, Germany, University Psychiatry Clinics (UPK) Basel, Switzerland"
   pubmed           : "maria.meier@uni.kn"
   googlescholar    : "https://scholar.google.com/citations?user=RCH3SKoAAAAJ&hl=de"
   email            :
