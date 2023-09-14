@@ -1,8 +1,8 @@
 ---
 title: ""
 collection: publications
-permalink: /publication/2023-Hu-HVR.md
-date: 2023-02-04
+permalink: /publication/2023-Dimitriff.md
+date: 2023-07-11
 venue: 'Biological Psychology'
 paperurl: 
 link: 'https://doi.org/10.1016/j.biopsycho.2023.108636'
