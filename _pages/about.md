@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Postdoc at the [Department of Psychology](https://www.psychologie.uni-konstanz.de/pruessner/) of the [University of Konstanz](https://www.uni-konstanz.de), Germany, and at the Child and Adolescent Psychiatric Research Department of the [University Psychiatric Clinics Basel (UPK)](https://www.upk.ch/), Switzerland.
 
-<b>My research focuses on effects of stress on health and behavior, with a special focus on the regulatory interactions between stress and the metabolic system.</b>
+<b>I study effects of stress on health and behavior, with a special focus on the regulatory interactions between stress and the metabolic system.</b>
 
 
 <b>Laboratory experiments</b>
