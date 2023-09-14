@@ -7,7 +7,7 @@ author_profile: true
 
 This is a list of my current preprints:
 
-<b>Meier, M.</b>\*, Kantelhardt, S.<b>\*, Gurri, L., Stadler, C., Schmid, M., Clemens, V., … Unternaeh-rer, E. (2023, August 3). Childhood Trauma Is Linked to Epigenetic Age Deceleration in Young Adults with Previous Youth Residential Care Placements. <https://doi.org/10.31234/osf.io/merqk>
+<b>Meier, M.</b>\*, Kantelhardt, S.\*, Gurri, L., Stadler, C., Schmid, M., Clemens, V., … Unternaeh-rer, E. (2023, August 3). Childhood Trauma Is Linked to Epigenetic Age Deceleration in Young Adults with Previous Youth Residential Care Placements. <https://doi.org/10.31234/osf.io/merqk>
 
 <b>Meier, M.</b>, Martarelli, C., & Wolff, W. (2023, March 14). Bored participants, biased data? How boredom can influence behavioral science research and what we can do about it. <https://doi.org/10.31234/osf.io/hzfqr>
 
